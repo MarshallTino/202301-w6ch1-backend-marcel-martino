@@ -1,0 +1,11 @@
+{
+  "toDoList": [
+    { "id": 1, "name": "Do atomic commits", "isDone": false },
+    { "id": 1, "name": "YAGMI", "isDone": false },
+    { "id": 1, "name": "RTFM", "isDone": false },
+    { "id": 1, "name": "Delete branch on merge", "isDone": false },
+    { "id": 1, "name": "Resolve conflicts", "isDone": false },
+    { "id": 1, "name": "Approve pull requests", "isDone": false },
+    { "id": 1, "name": "Create a new repo", "isDone": false }
+  ]
+}
